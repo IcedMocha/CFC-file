@@ -385,32 +385,32 @@
           "state" : "Indiana"
         },
         {
-          "abbreviation" : "MARY",
-          "prestige" : "75",
+          "abbreviation" : "NEB",
+          "prestige" : "78",
           "hexColor" : "#FF0000",
           "rival" : "IOWA",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
             "age" : "45",
-            "ratOff" : "60",
+            "ratOff" : "72",
             "cumulativePrestige" : "-6",
-            "ratDef" : "72",
-            "homeState" : "Michigan",
+            "ratDef" : "79",
+            "homeState" : "Nebraska",
             "ratPot" : "79",
-            "ratTalent" : "62",
+            "ratTalent" : "76",
             "baselinePrestige" : "65",
-            "name" : "Mike Locksley",
+            "name" : "Scott Frost",
             "contractYear" : "4"
           },
-          "name" : "Maryland Terraphins",
-          "state" : "Maryland"
+          "name" : "Nebraska Cornhuskers",
+          "state" : "Nebraska"
         },
         {
           "abbreviation" : "IOWA",
           "prestige" : "83",
           "hexColor" : "#FFD200",
-          "rival" : "MARY",
+          "rival" : "NEB",
           "headCoach" : {
             "contractLength" : "6",
             "startYear" : "2020",
